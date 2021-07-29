@@ -1,0 +1,16 @@
+D:\OKUL\C# Projeler\NorthwindBackend\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+D:\OKUL\C# Projeler\NorthwindBackend\Business\bin\Debug\netcoreapp3.1\Business.dll
+D:\OKUL\C# Projeler\NorthwindBackend\Business\bin\Debug\netcoreapp3.1\Business.pdb
+D:\OKUL\C# Projeler\NorthwindBackend\Business\bin\Debug\netcoreapp3.1\Core.dll
+D:\OKUL\C# Projeler\NorthwindBackend\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\OKUL\C# Projeler\NorthwindBackend\Business\bin\Debug\netcoreapp3.1\Entities.dll
+D:\OKUL\C# Projeler\NorthwindBackend\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\OKUL\C# Projeler\NorthwindBackend\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\OKUL\C# Projeler\NorthwindBackend\Business\bin\Debug\netcoreapp3.1\Core.pdb
+D:\OKUL\C# Projeler\NorthwindBackend\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+D:\OKUL\C# Projeler\NorthwindBackend\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+D:\OKUL\C# Projeler\NorthwindBackend\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+D:\OKUL\C# Projeler\NorthwindBackend\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+D:\OKUL\C# Projeler\NorthwindBackend\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+D:\OKUL\C# Projeler\NorthwindBackend\Business\obj\Debug\netcoreapp3.1\Business.dll
+D:\OKUL\C# Projeler\NorthwindBackend\Business\obj\Debug\netcoreapp3.1\Business.pdb

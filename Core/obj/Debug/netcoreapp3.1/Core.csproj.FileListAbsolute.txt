@@ -1,0 +1,9 @@
+D:\OKUL\C# Projeler\NorthwindBackend\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+D:\OKUL\C# Projeler\NorthwindBackend\Core\bin\Debug\netcoreapp3.1\Core.dll
+D:\OKUL\C# Projeler\NorthwindBackend\Core\bin\Debug\netcoreapp3.1\Core.pdb
+D:\OKUL\C# Projeler\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+D:\OKUL\C# Projeler\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\OKUL\C# Projeler\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\OKUL\C# Projeler\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+D:\OKUL\C# Projeler\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.dll
+D:\OKUL\C# Projeler\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.pdb

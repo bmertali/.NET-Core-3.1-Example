@@ -1,0 +1,12 @@
+D:\OKUL\C# Projeler\NorthwindBackend\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+D:\OKUL\C# Projeler\NorthwindBackend\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+D:\OKUL\C# Projeler\NorthwindBackend\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\OKUL\C# Projeler\NorthwindBackend\Entities\bin\Debug\netcoreapp3.1\Core.dll
+D:\OKUL\C# Projeler\NorthwindBackend\Entities\bin\Debug\netcoreapp3.1\Core.pdb
+D:\OKUL\C# Projeler\NorthwindBackend\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+D:\OKUL\C# Projeler\NorthwindBackend\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+D:\OKUL\C# Projeler\NorthwindBackend\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+D:\OKUL\C# Projeler\NorthwindBackend\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+D:\OKUL\C# Projeler\NorthwindBackend\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CopyComplete
+D:\OKUL\C# Projeler\NorthwindBackend\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+D:\OKUL\C# Projeler\NorthwindBackend\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
