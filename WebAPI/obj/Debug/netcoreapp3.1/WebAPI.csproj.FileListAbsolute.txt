@@ -72,3 +72,6 @@ D:\OKUL\C# Projeler\NorthwindBackend\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genru
 D:\OKUL\C# Projeler\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
 D:\OKUL\C# Projeler\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 D:\OKUL\C# Projeler\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\OKUL\C# Projeler\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+D:\OKUL\C# Projeler\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\OKUL\C# Projeler\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
