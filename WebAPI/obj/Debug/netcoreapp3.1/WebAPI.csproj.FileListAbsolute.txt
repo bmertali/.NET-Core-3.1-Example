@@ -75,3 +75,14 @@ D:\OKUL\C# Projeler\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.As
 D:\OKUL\C# Projeler\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
 D:\OKUL\C# Projeler\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
 D:\OKUL\C# Projeler\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\OKUL\C# Projeler\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\OKUL\C# Projeler\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+D:\OKUL\C# Projeler\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\OKUL\C# Projeler\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\log4net.config
+D:\OKUL\C# Projeler\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\log4net.dll
+D:\OKUL\C# Projeler\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\MicroKnights.Log4NetAdoNetAppender.dll
+D:\OKUL\C# Projeler\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\OKUL\C# Projeler\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\OKUL\C# Projeler\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\OKUL\C# Projeler\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\OKUL\C# Projeler\NorthwindBackend\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
